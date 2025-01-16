@@ -1,6 +1,6 @@
 # Sales-Prediction-ML
 
-  For sales prediction #NovaNectar Services Pvt. Ltd., I collect and preprocess the historical sales data of Sujal Dairy Pvt. Ltd., incorporating key variables such as seasonality, promotions, and economic indicators. These factors are crucial for understanding trends and patterns in the sales data. Next, I implement regression algorithms, including linear regression, decision trees, or more advanced models like LSTM networks, depending on the complexity and structure of the data.
+ I collect and preprocess the historical sales data of Sujal Dairy Pvt. Ltd., incorporating key variables such as seasonality, promotions, and economic indicators. These factors are crucial for understanding trends and patterns in the sales data. Next, I implement regression algorithms, including linear regression, decision trees, or more advanced models like LSTM networks, depending on the complexity and structure of the data.
 f
 Once the models are trained on the historical data, I validate their accuracy by evaluating performance using key metrics like RMSE (Root Mean Squared Error), MAE (Mean Absolute Error), and R-squared. These metrics provide insight into how well the model predicts future sales.
 
